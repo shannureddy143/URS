@@ -11,8 +11,6 @@
 
 **A modern, full-stack umbrella rental platform with real-time GPS tracking, smart wallet management, and seamless payment integration.**
 
-[🚀 Live Demo](#) • [📖 Documentation](#-quick-start) • [🐛 Report Bug](https://github.com/yourusername/urs/issues) • [✨ Request Feature](https://github.com/yourusername/urs/issues)
-
 </div>
 
 ---
@@ -343,9 +341,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+**PALISETTY SANJAY KUMAR**
+- LinkedIn: [PALISETTY SANJAY KUMAR](https://www.linkedin.com/in/iam-sanjaykumar/)
 
 ## 🙏 Acknowledgments
 
@@ -359,6 +356,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### ⭐ Star this repo if you find it helpful!
 
-**Made with ☕ and 💻 by [Your Name](https://github.com/yourusername)**
+**Made with ☕ and 💻 by [PALISETTY SANJAY KUMAR](https://www.linkedin.com/in/iam-sanjaykumar/)**
 
 </div>
