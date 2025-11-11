@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: rainshield-backend
+    env: node
+    buildCommand: cd backend && npm install
+    startCommand: cd backend && npm start
+    envVars:
+      - key: MONGODB_URI
+        value: mongodb+srv://palisettysanjaykumar_db_user:StPcfumQIOvDAEtS@urs.h9jrkne.mongodb.net/demo
+      - key: JWT_SECRET
+        value: rainshield_temp_secret_2024
+      - key: PORT
+        value: 5000
+
+  - type: web
+    name: rainshield-frontend
+    env: static
+    buildCommand: cd frontend && npm install && npm run build
+    staticPublishPath: frontend/build
+    envVars:
+      - key: REACT_APP_API_URL
+        value: https://rainshield-backend.onrender.com/api
