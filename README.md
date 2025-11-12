@@ -339,10 +339,13 @@ Contributions make the open-source community amazing! Any contributions are **gr
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **PALISETTY SANJAY KUMAR**
 - LinkedIn: [PALISETTY SANJAY KUMAR](https://www.linkedin.com/in/iam-sanjaykumar/)
+
+**SHANMUKHA ANJANI THIRU ADAPA**
+- LinkedIn: [SHANMUKHA ANJANI THIRU ADAPA](https://www.linkedin.com/in/shanmukha-anjani-thiru-841b1a289/)
 
 ## 🙏 Acknowledgments
 
@@ -356,6 +359,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### ⭐ Star this repo if you find it helpful!
 
-**Made with ☕ and 💻 by [PALISETTY SANJAY KUMAR](https://www.linkedin.com/in/iam-sanjaykumar/)**
+**Made with ☕ and 💻 by [PALISETTY SANJAY KUMAR](https://www.linkedin.com/in/iam-sanjaykumar/) & [SHANMUKHA ANJANI THIRU ADAPA](https://www.linkedin.com/in/shanmukha-anjani-thiru-841b1a289/)**
 
 </div>
